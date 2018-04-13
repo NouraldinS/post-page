@@ -1,0 +1,29 @@
+{
+  "name": "post-page",
+  "version": "1.0.0",
+  "description": "A page that has the basic functionality of posting and viewing posts and storing everything in a json file.",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "nodemon": "^1.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoureldeanSaed/post-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoureldeanSaed/post-page/issues"
+  },
+  "homepage": "https://github.com/NoureldeanSaed/post-page#readme"
+}
